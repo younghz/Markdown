@@ -22,7 +22,7 @@
 >**2013**年1月自杀身亡。    
 
 那么他英俊的外表足以XX你的双眼：
-![]()   
+![Aaron Swartz](https://github.com/younghz/Markdown/blob/master/Res/Aaron_Swartz.jpg) 
 
 或许天才都有英年早逝的归途。
 ### 3. _为什么_要使用它？ ###
