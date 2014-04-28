@@ -13,7 +13,7 @@
 ### 2. _谁_发明可这么个_牛X_的东西？ ###
 它由**Aaron Swartz**和**John Gruber**共同设计，**Aaron Swartz**就是那位迫于压力去年（_2013年1月11日_）自杀,有着**开挂**一般人生的程序员。如果他这样的经历不足以让你跪拜：
 >**14岁**参与创造RSS 1.0规格标准的制订.   
->2006年创办"ok ever published"。   
+>**2006**年创办"ok ever published"。   
 >曾就读于**斯坦福**。   
 >创建Infogami与Reddit软件公司。   
 >**2006**年用wiki技术创办了网上免费图书馆Open Library。   
