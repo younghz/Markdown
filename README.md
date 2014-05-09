@@ -138,3 +138,29 @@ void main()
 > 2. 第二项
 > 3. 第三项
 
+#### 4.7 分割线 ####
+分割线最常使用就是三个或以上`*`，还可以使用`-`和`_`。
+
+#### 4.8 链接 ####
+链接可以由两种形式生成：**行内式**和**参考式**。
+**行内式**：
+>\[younghz的Markdown库\]\(https:://github.com/younghz/Markdown "Markdown"\)。
+
+效果：
+>[younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")。
+
+**参考式**：
+>\[younghz的Markdown库1\]\[1\]
+>\[younghz的Markdown库2\]\[2\]
+>\[1\]:https:://github.com/younghz/Markdown "Markdown"
+>\[2\]:https:://github.com/younghz/Markdown "Markdown"
+
+效果：
+>[younghz的Markdown库1][1]
+>[younghz的Markdown库2][2]
+
+[1]: https:://github.com/younghz/Markdown "Markdown"
+[2]: https:://github.com/younghz/Markdown "Markdown"
+
+**注意**：\[1\]:https:://github.com/younghz/Markdown "Markdown"不出现在区块中。
+
