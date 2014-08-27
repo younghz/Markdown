@@ -160,7 +160,7 @@ void main()
 [1]: https:://github.com/younghz/Markdown "Markdown"
 [2]: https:://github.com/younghz/Markdown "Markdown"
 
-**注意**：\[1\]:https:://github.com/younghz/Markdown "Markdown"不出现在区块中。
+**注意**：上述的`\[1\]:https:://github.com/younghz/Markdown "Markdown"`不出现在区块中。
 
 #### 4.9 图片 ####
 添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。
