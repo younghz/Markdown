@@ -106,11 +106,11 @@ void main()
 
 #### 4.5 强调 ####
 在强调内容两侧分别加上`*`或者`_`，如：
->\*斜体\*，\_斜体\_
+>\*斜体\*，\_斜体\_    
 >\*\*粗体\*\*，\_\_粗体\_\_
 
 效果：
->*斜体*，_斜体_
+>*斜体*，_斜体_    
 >**粗体**，__粗体__
 
 #### 4.6 列表 ####
@@ -160,7 +160,7 @@ void main()
 [1]: https:://github.com/younghz/Markdown "Markdown"
 [2]: https:://github.com/younghz/Markdown "Markdown"
 
-**注意**：上述的`\[1\]:https:://github.com/younghz/Markdown "Markdown"`不出现在区块中。
+**注意**：上述的`[1]:https:://github.com/younghz/Markdown "Markdown"`不出现在区块中。
 
 #### 4.9 图片 ####
 添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。
@@ -185,11 +185,12 @@ Markdown的用户：
 - 等等
 
 #### 6. 感觉有意思？趁热打铁，推荐几个_工具_。 ####
-笔者在这里使用的stackedit，在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。
-Windowns下的MarkdownPad也用过，不过，_呵呵_。
-Mac下的Mou是国人贡献的，口碑很好，可是我没有Mac book。
-Linux下的ReText不错。
-在线的dillinger.io算是评价最好的了，可是不能离线使用。
+笔者在这里使用的stackedit，在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。    
+Windowns下的MarkdownPad也用过，不过，_呵呵_。    
+Mac下的Mou是国人贡献的，口碑很好，可是我没有Mac book。    
+Linux下的ReText不错。    
+在线的dillinger.io算是评价最好的了，可是不能离线使用。    
+**注意**：不同的Markdown解释器或工具对相应语法的届时效果不尽相同，具体可参见工具的使用说哦名。
 
 
 ### 其它： ###
