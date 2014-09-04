@@ -189,9 +189,10 @@ Markdown的用户：
 Windowns下的MarkdownPad也用过，不过，_呵呵_。    
 Mac下的Mou是国人贡献的，口碑很好，可是我没有Mac book。    
 Linux下的ReText不错。    
-在线的dillinger.io算是评价最好的了，可是不能离线使用。    
-**注意**：不同的Markdown解释器或工具对相应语法的解释效果不尽相同，具体可参见工具的使用说哦名。
-
+在线的dillinger.io算是评价最好的了，可是不能离线使用。 
+****   
+**注意**：不同的Markdown解释器或工具对相应语法的解释效果不尽相同，具体可参见工具的使用说明。但是已经有人（包括GitHub和Reddit工作人员等）开始组织将Markdown进行标准化了，可以参见[standardmarkdown.com](http://standardmarkdown.com/)。
+****
 
 ### 其它： ###
 列表的使用：
