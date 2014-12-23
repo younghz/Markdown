@@ -37,10 +37,8 @@
 - 摆脱Word（当然使用它你不用装盗版的office，不用担心由于版本的不同而无法打开文件，不用在乎对方的平台到底是什么。但是呵呵，有时你必须用，你懂的。）。明白这一点你只需清楚Markdown最初设计的**目的**即可。    
  
 ### 4. _怎么_使用？ ###
-如果不算**扩展**，Markdown的语法绝对简单到让你爱不释手，你终于可以在你的简历中写上：
->精通Markdown    
-    
-而不怕被人问出破绽而遭鄙视。    
+如果不算**扩展**，Markdown的语法绝对简单到让你爱不释手，你终于可以大声说出**精通**二字。
+
 废话太多，下面正文，Markdown语法主要分为如下几大部分：
 **标题**，**段落**，**区块引用**，**代码区块**，**强调**，**列表**，**分割线**，**链接**，**图片**，**反斜杠 `\`**，**符号'`'**。
 
@@ -197,9 +195,14 @@ Linux下的ReText不错。
 ### 其它： ###
 列表的使用：
 
+> |我的开源项目                          |链接                                |
+> |:------------------------------------:|------------------------------------|
+> |MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
+> |tianchi                               |[https://github.com/younghz/tianchi](https://github.com/younghz/tianchi "tianchi")|
+> |TBBKAnalysis                          |[https://github.com/younghz/TBBKAnalysis](https://github.com/younghz/TBBKAnalysis)
+
 |我的开源项目                          |链接                                |
 |:------------------------------------:|------------------------------------|
 |MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
-|moos-young                            |[https://github.com/younghz/moos-young](https://github.com/younghz/moos-young "moos-young")|
 |tianchi                               |[https://github.com/younghz/tianchi](https://github.com/younghz/tianchi "tianchi")|
 |TBBKAnalysis                          |[https://github.com/younghz/TBBKAnalysis](https://github.com/younghz/TBBKAnalysis)
