@@ -195,11 +195,7 @@ Linux下的ReText不错。
 ### 其它： ###
 列表的使用：
 
-> |我的开源项目                          |链接                                |
-> |:------------------------------------:|------------------------------------|
-> |MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
-> |tianchi                               |[https://github.com/younghz/tianchi](https://github.com/younghz/tianchi "tianchi")|
-> |TBBKAnalysis                          |[https://github.com/younghz/TBBKAnalysis](https://github.com/younghz/TBBKAnalysis)
+用`|`表示表格纵向边界，表头和表内容用`-`隔开，并可用`：`进行对齐设置，两边都有`：`则表示居中，若不加`：`则默认左对齐。
 
 |我的开源项目                          |链接                                |
 |:------------------------------------:|------------------------------------|
