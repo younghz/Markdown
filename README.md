@@ -183,7 +183,7 @@ Markdown的用户：
 - 等等
 
 #### 6. 感觉有意思？趁热打铁，推荐几个_工具_。 ####
-笔者在这里使用的stackedit，在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。    
+笔者在Linux下一般使用VIM。Win下使用stackedit，其在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。    
 Windowns下的MarkdownPad也用过，不过，_呵呵_。    
 Mac下的Mou是国人贡献的，口碑很好，可是我没有Mac book。    
 Linux下的ReText不错。    
