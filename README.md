@@ -171,7 +171,7 @@ void main()
 效果：
 >`ctrl+a`    
 
-#### 5. 都_谁_在用？没人用的东西我可不用。####
+#### 5. 都_谁_在用？####
 Markdown的用户：
 
 - GitHub
@@ -183,9 +183,9 @@ Markdown的用户：
 - 等等
 
 #### 6. 感觉有意思？趁热打铁，推荐几个_工具_。 ####
-笔者在Linux下一般使用VIM。Win下使用stackedit，其在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。    
-Windowns下的MarkdownPad也用过，不过，_呵呵_。    
-Mac下的Mou是国人贡献的，口碑很好，可是我没有Mac book。    
+Linux下使用VIM即可。Win下使用stackedit，其在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。    
+Windowns下的MarkdownPad也用过，不过效果不是很好。    
+Mac下的Mou是国人贡献的，口碑很好。    
 Linux下的ReText不错。    
 在线的dillinger.io算是评价最好的了，可是不能离线使用。 
 ****   
@@ -200,5 +200,5 @@ Linux下的ReText不错。
 |我的开源项目                          |链接                                |
 |:------------------------------------:|------------------------------------|
 |MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
-|tianchi                               |[https://github.com/younghz/tianchi](https://github.com/younghz/tianchi "tianchi")|
+|moos-young                            |[https://github.com/younghz/moos-young](https://github.com/younghz/moos-young "tianchi")|
 |TBBKAnalysis                          |[https://github.com/younghz/TBBKAnalysis](https://github.com/younghz/TBBKAnalysis)
