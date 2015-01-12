@@ -183,7 +183,7 @@ Markdown的用户：
 - Reddit
 - 等等
 
-<h3 id="where">6. 感觉有意思？趁热打铁，推荐几个<i>工具</i>。</h3>
+<h3 id="tool">6. 感觉有意思？趁热打铁，推荐几个<i>工具</i>。</h3>
 Linux下使用VIM即可。Win下使用stackedit，其在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。    
 Windowns下的MarkdownPad也用过，不过效果不是很好。    
 Mac下的Mou是国人贡献的，口碑很好。    
