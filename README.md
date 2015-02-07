@@ -172,7 +172,7 @@ void main()
 >`ctrl+a`    
 
 #### 5. 都_谁_在用？####
-Markdown的用户：
+Markdown的使用者：
 
 - GitHub
 - 简书
@@ -183,11 +183,14 @@ Markdown的用户：
 - 等等
 
 #### 6. 感觉有意思？趁热打铁，推荐几个_工具_。 ####
-Linux下使用VIM即可。Win下使用stackedit，其在chrome中安装插件还可以离线使用，很爽。也不用担心平台受限。    
-Windowns下的MarkdownPad也用过，不过效果不是很好。    
+Chrome下的stackedit插件可以离线使用，很爽。也不用担心平台受限。    
+Windowns下的MarkdownPad也用过，不过免费版的效果不是很好。    
 Mac下的Mou是国人贡献的，口碑很好。    
 Linux下的ReText不错。    
-在线的dillinger.io算是评价最好的了，可是不能离线使用。 
+在线的dillinger.io算是评价最好的了，可是不能离线使用。     
+其实在对语法了如于心的话，直接用编辑器就可以了，脑子里满满的都是格式化好
+的文本啊。
+
 ****   
 **注意**：不同的Markdown解释器或工具对相应语法的解释效果不尽相同，具体可参见工具的使用说明。但是已经有人（包括GitHub和Reddit工作人员等）开始组织将Markdown进行标准化了，可以参见[standardmarkdown.com](http://standardmarkdown.com/)。
 ****
@@ -197,8 +200,7 @@ Linux下的ReText不错。
 
 用`|`表示表格纵向边界，表头和表内容用`-`隔开，并可用`：`进行对齐设置，两边都有`：`则表示居中，若不加`：`则默认左对齐。
 
-|我的开源项目                          |链接                                |
+|开源项目                              |链接                                |
 |:------------------------------------:|------------------------------------|
 |MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
 |moos-young                            |[https://github.com/younghz/moos-young](https://github.com/younghz/moos-young "tianchi")|
-|TBBKAnalysis                          |[https://github.com/younghz/TBBKAnalysis](https://github.com/younghz/TBBKAnalysis)
