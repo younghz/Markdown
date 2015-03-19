@@ -23,7 +23,7 @@
 + **2011**年7月19日，因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。 **2013**年1月自杀身亡。    
 
 看真相：    
-\![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg) 
+![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg) 
 
 天才都有早逝的归途（又是一位犹太人）。
 
