@@ -189,7 +189,7 @@ Markdown的使用者：
 **其实在对语法了如于心的话，直接用编辑器就可以了，脑子里满满的都是格式化好
 的文本啊。**
 
-****   
+****
 **注意**：不同的Markdown解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。但是已经有人（包括GitHub和Reddit工作人员等）开始组织将Markdown进行标准化了，可以参见[standardmarkdown.com](http://standardmarkdown.com/)。
 ****
 以上基本是所有traditonal markdown的语法。
