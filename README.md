@@ -15,14 +15,12 @@
 它由[**Aaron Swartz**](http://www.aaronsw.com/)和**John Gruber**共同设计，**Aaron Swartz**就是那位于去年（_2013年1月11日_）自杀,有着**开挂**一般人生经历的程序员。维基百科对他的[介绍](http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8)是：**软件工程师、作家、政治组织者、互联网活动家、维基百科人**。    
 
 他有着足以让你跪拜的人生经历：    
-
 + **14岁**参与RSS 1.0规格标准的制订。     
 + 2004年入读**斯坦福**，之后退学。   
 + 2005年创建[Infogami](http://infogami.org/)，之后与[Reddit](http://www.reddit.com/)合并成为其合伙人。   
 + **2010**年创立求进会（Demand Progress），积极参与禁止网络盗版法案（SOPA）活动，最终该提案**居然**被撤回。   
 + **2011**年7月19日，因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。 **2013**年1月自杀身亡。    
 
-看真相：    
 ![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg) 
 
 天才都有早逝的归途（又是一位犹太人）。
@@ -173,13 +171,13 @@ void main()
 #### 5. 都_谁_在用？####
 Markdown的使用者：
 
-- GitHub
-- 简书
-- Stack Overflow
-- Apollo
-- Moodle
-- Reddit
-- 等等
++ GitHub
++ 简书
++ Stack Overflow
++ Apollo
++ Moodle
++ Reddit
++ 等等
 
 #### 6. 感觉有意思？趁热打铁，推荐几个_工具_。 ####
 + Chrome下的stackedit插件可以离线使用，很爽。也不用担心平台受限。    
@@ -187,7 +185,7 @@ Markdown的使用者：
 + Mac下的Mou是国人贡献的，口碑很好。推荐。    
 + Linux下的ReText不错。    
 + 在线的dillinger.io算是评价好的了，可是不能离线使用。   
-  
+
 **其实在对语法了如于心的话，直接用编辑器就可以了，脑子里满满的都是格式化好
 的文本啊。**
 
@@ -205,6 +203,5 @@ Markdown的使用者：
 |:------------------------------------:|------------------------------------|
 |MarkDown                              |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
 |moos-young                            |[https://github.com/younghz/moos-young](https://github.com/younghz/moos-young "tianchi")|
-
 
 关于其它扩展语法可参见具体工具的使用说明。
