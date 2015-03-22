@@ -16,14 +16,15 @@
 
 他有着足以让你跪拜的人生经历：    
 + **14岁**参与RSS 1.0规格标准的制订。     
-+ 2004年入读**斯坦福**，之后退学。   
-+ 2005年创建[Infogami](http://infogami.org/)，之后与[Reddit](http://www.reddit.com/)合并成为其合伙人。   
++ **2004**年入读**斯坦福**，之后退学。   
++ **2005**年创建[Infogami](http://infogami.org/)，之后与[Reddit](http://www.reddit.com/)合并成为其合伙人。   
 + **2010**年创立求进会（Demand Progress），积极参与禁止网络盗版法案（SOPA）活动，最终该提案**居然**被撤回。   
-+ **2011**年7月19日，因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。 **2013**年1月自杀身亡。    
++ **2011**年7月19日，因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。     
++ **2013**年1月自杀身亡。    
 
 ![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg) 
 
-天才都有早逝的归途（又是一位犹太人）。
+天才都有早逝的归途（又是一位**犹太人**）。
 
 ### 3. _为什么_要使用它？ ###
 + 它是易读（_看起开舒服_）、易写（_语法简单_）、易更改**纯文本**。处处体现着**极简主义**的影子。
@@ -170,7 +171,6 @@ void main()
 
 #### 5. 都_谁_在用？####
 Markdown的使用者：
-
 + GitHub
 + 简书
 + Stack Overflow
@@ -180,14 +180,13 @@ Markdown的使用者：
 + 等等
 
 #### 6. 感觉有意思？趁热打铁，推荐几个_工具_。 ####
-+ Chrome下的stackedit插件可以离线使用，很爽。也不用担心平台受限。    
-+ Windowns下的MarkdownPad也用过，不过免费版的效果不是很好。    
-+ Mac下的Mou是国人贡献的，口碑很好。推荐。    
-+ Linux下的ReText不错。    
-+ 在线的dillinger.io算是评价好的了，可是不能离线使用。   
++ **Chrome**下的stackedit插件可以离线使用，很爽。也不用担心平台受限。
+在线的dillinger.io算是评价好的了，可是不能离线使用。   
++ **Windowns**下的MarkdownPad也用过，不过免费版的体验不是很好。    
++ **Mac**下的Mou是国人贡献的，口碑很好。推荐。    
++ **Linux**下的ReText不错。    
 
-**其实在对语法了如于心的话，直接用编辑器就可以了，脑子里满满的都是格式化好
-的文本啊。**
+**其实在对语法了如于心的话，直接用编辑器就可以了，脑子里满满的都是格式化好的文本啊。**
 
 ****
 **注意**：不同的Markdown解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。但是已经有人（包括GitHub和Reddit工作人员等）开始组织将Markdown进行标准化了，可以参见[standardmarkdown.com](http://standardmarkdown.com/)。
