@@ -181,7 +181,7 @@ Markdown的使用者：
 
 #### 6. 感觉有意思？趁热打铁，推荐几个_工具_。 ####
 + **Chrome**下的stackedit插件可以离线使用，很爽。也不用担心平台受限。
-在线的dillinger.io算是评价好的了，可是不能离线使用。   
+在线的dillinger.io算是评价好的了，可是不能离线使用。我现在使用马克飞象+Markdown-here，非常方便。    
 + **Windowns**下的MarkdownPad也用过，不过免费版的体验不是很好。    
 + **Mac**下的Mou是国人贡献的，口碑很好。推荐。    
 + **Linux**下的ReText不错。    
@@ -190,7 +190,7 @@ Markdown的使用者：
 
 ****
 **注意**：不同的Markdown解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。
-虽然有人像出面搞一个所谓的标准化的Markdown，[没想到还惹怒了健在的创始人John Gruber]
+虽然有人想出面搞一个所谓的标准化的Markdown，[没想到还惹怒了健在的创始人John Gruber]
 (http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/)。
 ****
 以上基本是所有traditonal markdown的语法。
