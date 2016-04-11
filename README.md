@@ -138,25 +138,25 @@ void main()
 #### 4.8 链接 ####
 链接可以由两种形式生成：**行内式**和**参考式**。    
 **行内式**：
-> \[younghz的Markdown库\]\(https:://github.com/younghz/Markdown "Markdown"\)。
+> \[younghz的Markdown库\]\(https://github.com/younghz/Markdown "Markdown"\)。
 
 效果：
-> [younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")。
+> [younghz的Markdown库](https://github.com/younghz/Markdown "Markdown")。
 
 **参考式**：
 > \[younghz的Markdown库1\]\[1\]    
 > \[younghz的Markdown库2\]\[2\]    
-> \[1\]:https:://github.com/younghz/Markdown "Markdown"    
-> \[2\]:https:://github.com/younghz/Markdown "Markdown"    
+> \[1\]:https://github.com/younghz/Markdown "Markdown"    
+> \[2\]:https://github.com/younghz/Markdown "Markdown"    
 
 效果：
 > [younghz的Markdown库1][1]    
 > [younghz的Markdown库2][2]
 
-[1]: https:://github.com/younghz/Markdown "Markdown"
-[2]: https:://github.com/younghz/Markdown "Markdown"
+[1]: https://github.com/younghz/Markdown "Markdown"
+[2]: https://github.com/younghz/Markdown "Markdown"
 
-**注意**：上述的`[1]:https:://github.com/younghz/Markdown "Markdown"`不出现在区块中。
+**注意**：上述的`[1]:https://github.com/younghz/Markdown "Markdown"`不出现在区块中。
 
 #### 4.9 图片 ####
 添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。
