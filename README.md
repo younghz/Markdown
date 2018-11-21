@@ -86,16 +86,18 @@ Markdown语法主要分为如下几大部分：
 代码区块的建立是在每行加上4个空格或者一个制表符（如同写代码一样）。如    
 普通段落：
 
-void main()    
+int main()    
 {    
     printf("Hello, Markdown.");    
+    return 0;
 }    
 
 代码区块：
 
-    void main()
+    int main()
     {
         printf("Hello, Markdown.");
+        return 0;
     }
 
 **注意**:需要和普通段落之间存在空行。
